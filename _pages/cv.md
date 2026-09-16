@@ -9,37 +9,43 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育经历
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2026.9-2029.6，南京大学新闻传播学院传播学，学术硕士
+* 2023.3-2026.6，武汉大学新闻与传播学院广播电视学，本科
+* 2021.9-2023.3，武汉大学社会学院社会学（知行试验班），本科
 
-Work experience
+实习经历
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2025.12-2026.4，武汉斗鱼直播，内容运营实习生
+  * 游戏日常直播活动策划与宣发：参与策划执行斗鱼站内无畏契约端游手游、APEX等游戏直播活动与全渠道宣发
+  * 站内大型活动策划：落地斗鱼春节游园会无畏契约端游手游、APEX、战地6等游戏分区系列活动，累计覆盖观众超万人次
+  * 主播数据监控与精细化运营：结合用户习惯与热点内容，制定科学的站内资源投放策略；基于数据分析为主播提供优化建议；监控站内部分游戏分区主播实时动态，发掘潜力主播
+  * 跨组协同与对接：与技术、营销策划等不同岗位对接活动进展
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2025.1-2025.5，央视玉渊谭天工作室，视觉融合实习生
+  * AI工具应用与技术实践：产出AI视频全平台播放量超65万
+  * 专题视频选题策划与视频剪辑：参与选题策划超15个，参与制作的视频播放量超200万
+  * 海量国内外信息检索与整理：跟进国内外经济、军事新闻专题的信息检索，搜集并整理信息文档内容超30万字
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2024.7-2024.8，新华社（湖北分社）东湖融合报道实验室，实习记者
+  * 活动报道与视频剪辑：武汉双年展、渡江节等
+  * 剧本撰写：天空之眼瞰武汉视频系列
+  * 采访准备：星竞威武专题
   
-Skills
+竞赛实践
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2025.5，2025年全国高校商业精英挑战赛品牌策划竞赛，全国二等奖，第二作者
+  * 参赛作品：《一品东方杨梅汁产品系列品牌策划书》
+  * 作品描述：该作品为一品东方杨梅汁饮的品牌策划方案宣讲视频，其宗旨为“与您共饮绿色、养生、时尚的‘梅’好生活。视频从社会环境、品牌故事、品牌现状、竞争分析、品牌理念、品牌设计、宣传推广、预算分析等方面进行品牌策划介绍。
+  * 工作描述：品牌运营板块撰写，展演视频制作
+* 2025.5，2025年中国大学生计算机设计大赛，中南地区赛二等奖，第一作者
+  * 参赛作品：微课与AI辅助作品《望海潮·东南形胜》
+  * 作品描述：该作品选择高中课文《望海潮·东南形胜》，通过沉浸式学习、跨文本对比分析、AIGC与动画等现代科技辅助，制作微课视频。
+  * 工作描述：文案撰写，视频制作
+* 2024.9，第九届中国数据新闻大赛，湖北省赛区三等奖，第二作者
+  * 参赛作品：《国潮涌动：数据解码国货探索之路》
+  * 工作描述：数据分析、文案撰写、图像动画等可视化制作
 
 Publications
 ======
