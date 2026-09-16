@@ -39,32 +39,13 @@ redirect_from:
   * 参赛作品：《一品东方杨梅汁产品系列品牌策划书》
   * 作品描述：该作品为一品东方杨梅汁饮的品牌策划方案宣讲视频，其宗旨为“与您共饮绿色、养生、时尚的‘梅’好生活。视频从社会环境、品牌故事、品牌现状、竞争分析、品牌理念、品牌设计、宣传推广、预算分析等方面进行品牌策划介绍。
   * 工作描述：品牌运营板块撰写，展演视频制作
+
 * 2025.5，2025年中国大学生计算机设计大赛，中南地区赛二等奖，第一作者
   * 参赛作品：微课与AI辅助作品《望海潮·东南形胜》
   * 作品描述：该作品选择高中课文《望海潮·东南形胜》，通过沉浸式学习、跨文本对比分析、AIGC与动画等现代科技辅助，制作微课视频。
   * 工作描述：文案撰写，视频制作
+
 * 2024.9，第九届中国数据新闻大赛，湖北省赛区三等奖，第二作者
   * 参赛作品：《国潮涌动：数据解码国货探索之路》
   * 工作描述：数据分析、文案撰写、图像动画等可视化制作
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
