@@ -1,7 +1,7 @@
 ---
 title: "表演与投射：cos委托中单主的自我重塑"
 date: 2024-6
-paperurl: 'https://Tangyuxin0721.github.io/files/paper1.pdf'
+paperurl: 'https://Tangyuxin0721.github.io/files/firstpaper.pdf'
 ---
 
 我与同学关注到社交媒体上讨论度攀升的“cos委托”这一亲密关系新模式及相关舆论，并以此为案例展开研究、撰写论文。文章运用建构扎根理论的研究方法，聚焦乙女游戏下的cos委托这一亲密关系商品化新模式，从参与其中的年轻女性的自我意识变化切入，探索其运行机制，我深度参与了该研究的全过程。
