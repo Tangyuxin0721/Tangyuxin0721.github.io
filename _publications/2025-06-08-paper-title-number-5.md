@@ -1,13 +1,10 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
-collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+title: "表演与投射：cos委托中单主的自我重塑"
+date: 2024-6
+paperurl: 'https://Tangyuxin0721.github.io/files/paper1.pdf'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+我与同学关注到社交媒体上讨论度攀升的“cos委托”这一亲密关系新模式及相关舆论，并以此为案例展开研究、撰写论文。文章运用建构扎根理论的研究方法，聚焦乙女游戏下的cos委托这一亲密关系商品化新模式，从参与其中的年轻女性的自我意识变化切入，探索其运行机制，我深度参与了该研究的全过程。
+
+首先，我发现了cos委托这个新兴现象，其中委托约会双方的人际传播、委托约会过程中的表演劳动或许存在研究价值。通过初步文献阅读，我发现目前相关研究较少，且均停留在描述与解释“cos委托“的运行机制，鲜少关注委托约会双方的人际传播及及运行过程中的自我重塑，我提议缩窄研究问题，避免内容宽泛。之后，我和团队同学接住社交媒体平台与15位cos委托参与者进行深度访谈。我们使用MAXQDA对访谈资料进行编码。经过三次编码后，我们发现cos委托让她们完成了从自我对话、自我表达，到通过表演劳动建构自我，通过自我延伸与自我投射实现自我再塑造的自我重构全过程。
+
