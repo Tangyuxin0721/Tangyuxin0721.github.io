@@ -1,6 +1,6 @@
 ---
 title: "表演与投射：cos委托中单主的自我重塑"
-date: 2024-6
+date: 2024-06-19
 paperurl: 'https://Tangyuxin0721.github.io/files/firstpaper.pdf'
 ---
 
