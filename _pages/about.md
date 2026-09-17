@@ -2,6 +2,8 @@
 permalink: /
 title: "这是汤雨欣的个人主页，欢迎查阅"
 author_profile: true
+header:
+  image: banner.jpg
 redirect_from: 
   - /about/
   - /about.html
