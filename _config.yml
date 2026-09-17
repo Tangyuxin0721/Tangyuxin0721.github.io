@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "China"
+locale                   : "中国"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Yuxin Tang"
 title_separator          : "-"
@@ -24,11 +24,11 @@ repository               : "Tangyuxin0721/Tangyuxin0721.github.io"
 author:
   # Biographic information
   avatar           : "一寸证件照.jpg"
-  name             : "Yuxin Tang"
-  pronouns         :  "she/her"  
-  bio              : "a postgraduate student in communication studies"
-  location         : "Nanjing, China"
-  employer         : "Nanjing University"
+  name             : "汤雨欣"
+  pronouns         :  "女"  
+  bio              : "新闻传播学院传播学学硕"
+  location         : "中国南京"
+  employer         : "南京大学"
   uri              : 
   email            : "357300481@qq.com" 
 
