@@ -23,35 +23,30 @@ redirect_from:
 南京大学新闻传播学院传播学学术硕士
 
 
-Getting started
+校内经历
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+* 2024.5-2026.6，武汉大学新闻与传播学院本科生党建发展研究中心部门负责人/中心主任
+  * 负责党建活动项目的策划与落实，与专业结合打造学院品牌党建活动，助力样板党支部的培育与建设。
+    * “歌颂祖国，共庆华诞”朗诵活动获校学工部转发
+    * “传承红色基因，争做时代新人”知识竞赛，超百人参与，获热烈反响
+  * 协助学院党委开展党员发展、党员档案管理、党员信息维护与党员骨干培训等工作，如开展院内入党积极分子的考核
+  * 负责学院2025年学生党支部“活力工程”项目的开展与结项
+  * 所在本科生党支部获评2025-2026年先进基层党组织
+ 
+* 2023.3-2026.6，武汉大学新闻与传播学院广电班，组织委员兼生权委员
+  * 组织委员职能：配合团支书开展班内入团、入党工作
+  * 生权委员职能：作为联系学院后勤体系与同学日常需求的纽带，配合院学生会生活权益部，开展“院领导接待日”“最美寝室评比”等活动
+ 
+* 2023.9-2025.9，武汉大学学生社团指导中心新闻宣传组，职委
+  * 参与百团大战、社团中华传统文化节的推文制作
+  * 担任百团大战、新生迎新、樱花诗赛、校园樱花开放期等大型活动志愿者，志愿时长超50h
+  * 获评2023-2024年度部门之星
+ 
+* 2021.9-2023.3，武汉大学社会学院学生会学术文体部，职委
+  * 参与组织学院秋季运动会、羽毛球赛、趣味运动会、毕业晚会等文体活动，包括前期策划、现场执行与后期推文和视频产出
 
-Site-wide configuration
+技能证书
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+* 资格证书：英语四级（610）、六级（556）证书、普通话二级甲等
+* 专业技能：新闻学、广播电视学相关学科的基本理论与知识，并具备一定的实践技能
+* 办公技能：熟练使用office系列办公软件，图像处理软件（ps/lr）、视频剪辑软件（pr/finalcut）、数据处理软件（spss）
